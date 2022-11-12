@@ -1,0 +1,24 @@
+created: 20221030013936360
+difficulty: 5
+due: 20221111140217662
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20221109140217662
+reps: 1
+retrievability: 1
+review: 20221109140217662
+stability: 2
+tags: 7231 ?
+title: cat
+type: text/vnd.tiddlywiki
+
+concatenate
+
+```
+|grep
+-v inverse match
+
+-v 和匹配字符串没有顺序要求
+```

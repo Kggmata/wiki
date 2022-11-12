@@ -1,0 +1,8 @@
+created: 20221030014051250
+modified: 20221030014410120
+tags: ? 7231
+title: write a shell command to show all lines in a file called "resolv.conf" contain nameserver in a file called "resolv.conf"
+type: text/vnd.tiddlywiki
+
+cat /etc/resolv.conf|grep nameserver
+

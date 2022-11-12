@@ -1,0 +1,13 @@
+created: 20221028124921586
+modified: 20221028125034537
+tags: ? 7203
+title: ensemble learning
+type: text/vnd.tiddlywiki
+
+```
+combining the output of multiple base classifiers
+
+why will sensemble learning achieve better prediction?
+1. each base classification has good generaliaztion
+2. there are diversity between individual classifiers
+```

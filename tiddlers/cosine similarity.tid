@@ -1,0 +1,22 @@
+created: 20221111072635850
+modified: 20221111073202726
+tags: ? 7203
+title: cosine similarity
+type: text/vnd.tiddlywiki
+
+```
+实际上就是normalized TF-IDF vector的乘积
+```
+[img[Snipaste_2022-11-11_15-27-02.png]]
+
+[img[Snipaste_2022-11-11_15-29-05.png]]
+
+```
+The smaller the angle, the larger the cosine of the angle
+
+larger the cosine similarity, the more simlar the two vectors
+```
+```
+Properties of the cosine similarity
+```
+[img[Snipaste_2022-11-11_15-31-04.png]]

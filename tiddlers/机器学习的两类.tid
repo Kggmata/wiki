@@ -1,0 +1,21 @@
+created: 20221028105538313
+difficulty: 3.1707833672273997
+due: 20221201084644768
+grade: 2
+history: [{"due":"20221101092228779","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20221030092228778"},{"due":"20221107113731728","interval":2,"difficulty":4.1000000000000005,"stability":6.091873624375545,"retrievability":0.9,"grade":2,"lapses":0,"reps":2,"review":"20221101113731728"}]
+interval: 8
+lapses: 0
+modified: 20221109084644768
+reps: 3
+retrievability: 0.8707833672273995
+review: 20221109084644767
+stability: 21.752708583396142
+tags: 7203 ?
+title: 机器学习的两类
+type: text/vnd.tiddlywiki
+
+```
+有label的叫supervised learning
+
+无label的叫unsupervised learning
+```

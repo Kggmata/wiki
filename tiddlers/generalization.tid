@@ -1,0 +1,11 @@
+created: 20221028105734209
+modified: 20221028110513643
+tags: ? 7203
+title: generalization
+type: text/vnd.tiddlywiki
+
+```
+The classifier's ability to classify unseen data
+
+欠拟合和过拟合都有差的generalization
+```

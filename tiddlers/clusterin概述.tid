@@ -1,0 +1,39 @@
+created: 20221028130458563
+difficulty: 5
+due: 20221111144546042
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20221109144546042
+reps: 1
+retrievability: 1
+review: 20221109144546042
+stability: 2
+tags: 7203 ?
+title: clusterin概述
+type: text/vnd.tiddlywiki
+
+```
+unsupervised learning
+
+use SSE(sum of squared error) as a validity
+
+kmeans
+
+density based method-DBSCAN
+
+Hierarchical based method-AGNES
+```
+[img[BillfishNEOZYu.PNG]]
+[img[Snipaste_2022-11-05_18-22-55.png]]
+
+```
+manhattan distance
+让2个samples 更相似
+
+chebyshev distance
+让2个samples 不相似
+
+结果不确定
+```

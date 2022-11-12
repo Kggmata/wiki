@@ -1,0 +1,7 @@
+created: 20221111080601349
+modified: 20221111080850909
+tags: ? 7203
+title: support rate for item set A
+type: text/vnd.tiddlywiki
+
+suport_rate(A)=#A/#transaction

@@ -1,0 +1,17 @@
+created: 20221027132111275
+difficulty: 4.144272283381887
+due: 20221201091120058
+grade: 1
+history: [{"due":"20221030063447431","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20221028063447431"},{"due":"20221108022756372","interval":3,"difficulty":4.0538149682454625,"stability":8.17310579005002,"retrievability":0.8538149682454624,"grade":2,"lapses":0,"reps":2,"review":"20221031022756371"}]
+interval: 9
+lapses: 0
+modified: 20221109091120058
+reps: 3
+retrievability: 0.8904573151364243
+review: 20221109091120057
+stability: 21.958987286285687
+tags: 7505 ?
+title: simplification rules
+type: text/vnd.tiddlywiki
+
+[img[BillfishnMyZgt2022-10-27 21_22_01.PNG]]

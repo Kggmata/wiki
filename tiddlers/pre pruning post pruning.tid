@@ -1,0 +1,16 @@
+created: 20221105094025439
+modified: 20221105142959393
+tags: ? 7203
+title: pre pruning post pruning
+type: text/vnd.tiddlywiki
+
+```
+优点:
+1. 可解释性好
+2. 训练快, 效率快
+3. redundant feature对结果不影响
+
+缺点:
+1. 只考虑了一个feature
+2. 没考虑多个feature
+```

@@ -1,0 +1,11 @@
+created: 20221111013503873
+modified: 20221111022655031
+tags: ? 7203
+title: 什么时候使用kmeans,什么时候DBSCAN hireraricalAGNES
+type: text/vnd.tiddlywiki
+
+```
+1. 高斯分布kmeans
+
+2. spherical 用DBSCAN AGNES
+```

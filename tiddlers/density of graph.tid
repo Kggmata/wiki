@@ -1,0 +1,12 @@
+created: 20221112044837873
+modified: 20221112050413733
+tags: ? 7505
+title: density of graph
+type: text/vnd.tiddlywiki
+
+```
+1. max_edges=v(v-1)/2
+2. D=E/max_edge
+
+D<1/2 is sparse
+```

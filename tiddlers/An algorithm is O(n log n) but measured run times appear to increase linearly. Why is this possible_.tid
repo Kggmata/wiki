@@ -1,0 +1,11 @@
+created: 20221028104200193
+modified: 20221028104238712
+tags: ?
+title: An algorithm is O(n log n) but measured run times appear to increase linearly. Why is this possible?
+type: text/vnd.tiddlywiki
+
+```
+- The analysis is wrong.
+- The range of values of n are not wide enough.
+- The low-order terms dominate because n is too small.
+```

@@ -1,0 +1,11 @@
+created: 20221111124349873
+modified: 20221111124528687
+tags: ? 7505
+title: assume n is very large and element is comparable, recommand a sorting algorithm
+type: text/vnd.tiddlywiki
+
+```
+can use quick sort ,time complexity Onlogn and is inplace sort means space complexity O1
+
+merge sort is not appropriate in this case as it is not inplace and need a On space complexity
+```

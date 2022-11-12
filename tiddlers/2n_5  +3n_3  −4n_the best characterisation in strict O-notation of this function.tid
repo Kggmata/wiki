@@ -1,0 +1,17 @@
+created: 20221028103900956
+difficulty: 3.1707833672273997
+due: 20221201084433764
+grade: 2
+history: [{"due":"20221101082503411","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20221030082503411"},{"due":"20221107113540790","interval":2,"difficulty":4.1000000000000005,"stability":6.091873624375545,"retrievability":0.9,"grade":2,"lapses":0,"reps":2,"review":"20221101113540789"}]
+interval: 8
+lapses: 0
+modified: 20221109084433764
+reps: 3
+retrievability: 0.8707833672273995
+review: 20221109084433763
+stability: 21.752708583396142
+tags: 7505 ?
+title: 2n^5  +3n^3  −4n:the best characterisation in strict O-notation of this function
+type: text/vnd.tiddlywiki
+
+O(n^5)

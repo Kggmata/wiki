@@ -1,0 +1,21 @@
+created: 20221105091340498
+difficulty: 5
+due: 20221111115226697
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20221109115226697
+reps: 1
+retrievability: 1
+review: 20221109115226697
+stability: 2
+tags: 7203 ?
+title: 信息熵的最大值最小值
+type: text/vnd.tiddlywiki
+
+```
+1. 最大值, log_2^m
+2. 最小值, 0
+```
+[img[Snipaste_2022-11-05_17-02-12.png]]

@@ -1,0 +1,34 @@
+created: 20221030023937559
+modified: 20221030050416595
+tags: ? 7231
+title: virtual memory
+type: text/vnd.tiddlywiki
+
+[img[Snipaste_2022-10-30_10-39-29.png]]
+[img[Snipaste_2022-10-30_11-02-57.png]]
+
+```
+不同的vm可以对于同一个pm
+vm也可以映射不满
+```
+```
+一页多少字节, 随便
+物理内存多大 随便
+虚拟内存多大, 看地址位数
+```
+```
+虚拟内存的page 对应物理内存的frame
+```
+```
+Vm包含两部分: page_index高位, in_page_offset低位
+
+通过vm高位找frame, 低位不变
+低位其实就是page size
+```
+[img[Snipaste_2022-10-30_11-37-44.png]]
+
+```
+1kb 10bits
+
+MMU的大小固定
+```

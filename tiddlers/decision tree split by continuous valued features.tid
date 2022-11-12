@@ -1,0 +1,12 @@
+created: 20221028124408940
+modified: 20221105093645498
+tags: ? 7203
+title: decision tree split by continuous valued features
+type: text/vnd.tiddlywiki
+
+```
+split by Bi-partition
+the feature needs to be considered in future splitting
+```
+
+排序, bi-partition

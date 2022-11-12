@@ -1,0 +1,22 @@
+created: 20221028110023702
+modified: 20221028110256723
+tags: ? 7203
+title: metrics
+type: text/vnd.tiddlywiki
+
+```
+1. Accuracy
+the rate of correct prediction
+
+2. zero-one error
+1-accuracy
+
+3. precision
+tp/(fp+tp)
+
+4. recall
+tp/(fp+fn)
+
+5. F1
+2/(1/fp+1/fn)
+```

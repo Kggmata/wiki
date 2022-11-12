@@ -1,0 +1,15 @@
+created: 20221028110529056
+modified: 20221105084159563
+tags: ? 7203
+title: imputation
+type: text/vnd.tiddlywiki
+
+```
+1. mean
+对于numerical
+
+2. most frequent
+对于norminal
+
+3. 要不要基于class
+```

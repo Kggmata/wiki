@@ -1,0 +1,9 @@
+created: 20221109072955681
+modified: 20221109073358483
+tags: ?
+title: why joining operation in association rule mining
+type: text/vnd.tiddlywiki
+
+1. efficient
+
+2. all frequent k+1 itemsets are included

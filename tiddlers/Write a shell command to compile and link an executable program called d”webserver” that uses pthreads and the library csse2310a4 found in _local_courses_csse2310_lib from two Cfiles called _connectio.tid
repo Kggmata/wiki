@@ -1,0 +1,25 @@
+created: 20221030010822316
+modified: 20221030013625427
+tags: ? 7231
+title: Write a shell command to compile and link an executable program called d”webserver” that uses pthreads and the library csse2310a4 found in /local/courses/csse2310/lib from two Cfiles called "connections.c” and"server.c.AIl input and output files are in the current working directory.
+type: text/vnd.tiddlywiki
+
+gcc connections.c server.c -lpthread -lcsse2310a4 -L/local/courses/csse2310/lib -o webserver
+
+```
+gcc -o 
+output
+link库
+
+gcc -l
+library
+
+gcc -L
+-Ldir
+制定编译的时候，搜索库的路径。比如你自己的库，可以用它制定目录，不然编译器将只在标准库的目录找。这个dir就是目录的名称。
+
+-lfoo
+搜的不是foo, 实际上是libfoo.o, 搜不到foo
+要使用-l:foo.o
+```
+[img[Snipaste_2022-10-30_09-29-17.png]]

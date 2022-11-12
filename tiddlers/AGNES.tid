@@ -1,0 +1,30 @@
+created: 20221028131050820
+difficulty: 7.933592283856648
+due: 20221110084340488
+grade: 0
+history: [{"due":"20221101104305550","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20221030104305550"},{"due":"20221102134143619","interval":2,"difficulty":6.1000000000000005,"stability":1.4816364413634358,"retrievability":0.9,"grade":0,"lapses":1,"reps":1,"review":"20221101134143619"},{"due":"20221106143222960","interval":4,"difficulty":7.052432761332063,"stability":1.097623272188053,"retrievability":0.752432761332062,"grade":0,"lapses":2,"reps":1,"review":"20221105143222959"}]
+interval: 4
+lapses: 3
+modified: 20221112061501734
+reps: 1
+retrievability: 0.681159522524585
+review: 20221109084340487
+stability: 0.8131393194811983
+tags: 7203 ?
+title: AGNES
+type: text/vnd.tiddlywiki
+wysiwyg: yes
+
+```
+hierarchical based clustering
+
+Min-single linkage
+
+max-complete linkage
+
+average-average linkage
+```
+[img[Snipaste_2022-11-05_15-58-29.png]]
+[img[Snipaste_2022-11-05_15-58-47.png]]
+[img[Snipaste_2022-11-05_15-58-54.png]]
+[img[BillfishFZPqrM.PNG]]

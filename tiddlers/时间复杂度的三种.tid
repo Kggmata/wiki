@@ -1,0 +1,23 @@
+created: 20221027132909681
+difficulty: 3.141177516867769
+due: 20221205080335337
+grade: 2
+history: [{"due":"20221030063131420","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20221028063131420"},{"due":"20221105092236569","interval":2,"difficulty":4.1000000000000005,"stability":6.091873624375545,"retrievability":0.9,"grade":2,"lapses":0,"reps":2,"review":"20221030092236568"}]
+interval: 10
+lapses: 0
+modified: 20221109080335337
+reps: 3
+retrievability: 0.8411775168677682
+review: 20221109080335337
+stability: 25.7636430941571
+tags: 7505 ?
+title: 时间复杂度的三种
+type: text/vnd.tiddlywiki
+
+```
+1. best case
+
+2. average case
+
+3. worest case
+```

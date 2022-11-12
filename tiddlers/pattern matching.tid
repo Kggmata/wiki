@@ -1,0 +1,33 @@
+created: 20221110131942278
+modified: 20221110154525605
+tags: ? 7203
+title: pattern matching
+type: text/vnd.tiddlywiki
+
+```
+1. boyer moore pattern matching
+running time: O(nm+s)
+n is the length of text, m is pattern
+s is size of alphabet
+if mismatch
+ 1. align the c with the last occurrence of c in P
+ 2. shift by the size of P if c not in P
+
+last occurance function to determine how far to jump
+
+```
+[img[Snipaste_2022-11-10_21-59-14.png]]
+
+```
+tries
+
+standard tries
+Compressed Tries
+```
+```
+text compression & encoding tries
+Huffman algorithm
+runtime O(n+dlogd)
+
+```
+[img[Snipaste_2022-11-10_22-46-17.png]]

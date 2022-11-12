@@ -1,0 +1,11 @@
+created: 20221028104448244
+modified: 20221028105404159
+tags: ? 7203
+title: training set
+type: text/vnd.tiddlywiki
+
+```
+a collection of samples, each contains
+1. features
+2. label
+```

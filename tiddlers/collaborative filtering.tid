@@ -1,0 +1,17 @@
+created: 20221029110954918
+modified: 20221111080853280
+tags: ? 7203
+title: collaborative filtering
+type: text/vnd.tiddlywiki
+
+```
+Approach
+
+1. use the wisdom of the crowd to recommend items
+2. only require user-item interaction information
+```
+[img[Snipaste_2022-10-29_19-10-58.png]]
+[img[Snipaste_2022-11-11_15-33-03.png]]
+[img[Snipaste_2022-11-11_15-40-52.png]]
+[img[Snipaste_2022-11-11_15-40-59.png]]
+[img[Snipaste_2022-11-11_15-41-05.png]]

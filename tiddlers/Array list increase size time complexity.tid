@@ -1,0 +1,24 @@
+created: 20221107142828000
+difficulty: 5
+due: 20221111133110945
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20221109133110945
+reps: 1
+retrievability: 1
+review: 20221109133110945
+stability: 2
+tags: 7505 ?
+title: Array list increase size time complexity
+type: text/vnd.tiddlywiki
+
+```
+increase size
+1. doubly
+amortisation time O(1)
+
+2. incremental
+O(n)
+```

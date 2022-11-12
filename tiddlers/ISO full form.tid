@@ -1,0 +1,20 @@
+caption: {{||Question}}
+created: 20221025020908667
+difficulty: 7.835759205985062
+due: 20221110084413124
+grade: 0
+history: [{"due":"20221030063307008","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20221028063307008"},{"due":"20221101022644029","interval":3,"difficulty":6.0538149682454625,"stability":1.4816364413634358,"retrievability":0.8538149682454624,"grade":0,"lapses":1,"reps":1,"review":"20221031022644029"},{"due":"20221106004724358","interval":5,"difficulty":6.9545996834604775,"stability":1.097623272188053,"retrievability":0.7007847152150146,"grade":0,"lapses":2,"reps":1,"review":"20221105004724358"}]
+interval: 4
+lapses: 3
+modified: 20221109084413124
+reps: 1
+retrievability: 0.681159522524585
+review: 20221109084413123
+stability: 0.8131393194811983
+tags: ?
+title: ISO full form
+type: text/vnd.tiddlywiki
+
+```
+identical storage image of optical media
+```

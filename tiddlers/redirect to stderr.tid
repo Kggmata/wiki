@@ -1,0 +1,7 @@
+created: 20221030015737134
+modified: 20221030020328292
+tags: ? 7231
+title: redirect to stderr
+type: text/vnd.tiddlywiki
+
+1>&2

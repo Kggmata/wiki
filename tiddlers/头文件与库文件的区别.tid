@@ -1,0 +1,32 @@
+created: 20221030013159115
+difficulty: 3.1707833672273997
+due: 20221201091050228
+grade: 2
+history: [{"due":"20221101092342834","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20221030092342834"},{"due":"20221107113746644","interval":2,"difficulty":4.1000000000000005,"stability":6.091873624375545,"retrievability":0.9,"grade":2,"lapses":0,"reps":2,"review":"20221101113746644"}]
+interval: 8
+lapses: 0
+modified: 20221109091050228
+reps: 3
+retrievability: 0.8707833672273995
+review: 20221109091050227
+stability: 21.752708583396142
+tags: 7231 ?
+title: 头文件与库文件的区别
+type: text/vnd.tiddlywiki
+
+https://blog.csdn.net/qq_33530388/article/details/60138971
+
+```
+在编程过程中，程序代码往往被拆成很多部分，每部分放在一个独立的源文件中，而不是将所有的代码放在一个源文件中。考虑一个简单的小例子：程序中有两个函数main()和abc()。main()函数位于main.cpp，abc()函数位于abc.cpp，main()函数中调用abc()函数。在编译阶段，由于编译是对单个文件进行编译，所以编译main.cpp时，编译器不知道是否存在abc()函数以及abc()调用是否正确，因此需要头文件辅助。也就是说，在编译命令：
+cl.exe /c main.cpp
+运行时，编译器不知道abc的用法是否正确（因为abc在另一个文件abc.cpp中），只有借助头文件中的函数声明来判断。对main.cpp进行编译时，不会涉及abc.cpp文件，只会涉及main.cpp 和abc.h（因为abc.h被include）文件。
+————————————————
+版权声明：本文为CSDN博主「hugh Lee」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
+原文链接：https://blog.csdn.net/qq_33530388/article/details/60138971
+```
+```
+库文件中包含一系列的子程序。例如abc.cpp 源文件中实现了abc()函数，我们假设abc()函数是包含重要算法的函数，我们需要将abc()函数提供给客户使用，但是不希望客户看到算法源代码。为了达到这一目的，我们可以将abc.cpp编译程库文件，库文件是二进制的，在库文件中是看不到原始的源代码的。库和可执行文件的区别是，库不是独立程序，他们是向其他程序提供服务的代码。 当然使用库文件的好处不仅仅是对源代码进行保密，使用库文件还可以减少重复编译的时间，增强程序的模块化。将库文件连接到程序中，有两种方式，一种是静态连接库，另一种是动态连接库。
+————————————————
+版权声明：本文为CSDN博主「hugh Lee」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
+原文链接：https://blog.csdn.net/qq_33530388/article/details/60138971
+```

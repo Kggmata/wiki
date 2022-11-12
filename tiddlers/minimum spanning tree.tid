@@ -1,0 +1,11 @@
+created: 20221112053518913
+modified: 20221112061139673
+tags: ? 7505
+title: minimum spanning tree
+type: text/vnd.tiddlywiki
+
+```
+Tree: connected acyclic graph
+
+cycle property: MST should have no cycles
+```

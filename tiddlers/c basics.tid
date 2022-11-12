@@ -1,0 +1,37 @@
+created: 20221030020737664
+difficulty: 3.8561000000000005
+due: 20221128080328372
+grade: 2
+history: [{"due":"20221103134158815","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20221101134158815"}]
+interval: 8
+lapses: 0
+modified: 20221109080328372
+reps: 2
+retrievability: 0.6561
+review: 20221109080328371
+stability: 18.669346285737497
+tags: 7231 ?
+title: c basics
+type: text/vnd.tiddlywiki
+
+```
+basics:
+int a
+float b
+double c
+char d
+
+arrays:
+1. int my_array[]={1,2,3,4} size 4 with initializer
+2.int my_array[4] size 4 no initializer
+3.char my_string[]="hello world!" size 13, append'\0' at end
+4.char my_string[12]="hello world!" size 12, no '\0' at end, print will fail
+
+array and pointer
+int my_array[length];
+
+int *my_pointer
+```
+[img[Snipaste_2022-10-30_10-16-14.png]]
+[img[Snipaste_2022-10-30_10-18-11.png]]
+[img[Snipaste_2022-10-30_10-20-50.png]]

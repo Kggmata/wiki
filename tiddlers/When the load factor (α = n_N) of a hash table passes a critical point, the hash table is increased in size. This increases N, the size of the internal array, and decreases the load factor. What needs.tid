@@ -1,0 +1,7 @@
+created: 20221108063849397
+modified: 20221108063910068
+tags: ? 7505
+title: When the load factor (α = n/N) of a hash table passes a critical point, the hash table is increased in size. This increases N, the size of the internal array, and decreases the load factor. What needs to happen when the table is resized?
+type: text/vnd.tiddlywiki
+
+[img[Snipaste_2022-11-08_14-39-05.png]]

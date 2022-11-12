@@ -1,0 +1,19 @@
+created: 20221031050023944
+modified: 20221110032523566
+tags: ? 7505
+title: recursion
+type: text/vnd.tiddlywiki
+
+[img[Snipaste_2022-10-31_13-00-21.png]]
+[img[Snipaste_2022-10-31_13-00-33.png]]
+
+```
+线性递归
+简单的调用自己
+
+尾递归
+函数最后调用自己
+
+二分递归/多路递归
+每一层递归一分为二, 多
+```

@@ -1,0 +1,17 @@
+created: 20221028105636066
+modified: 20221028111653352
+tags: ? 7203
+title: overfitting underfitting
+type: text/vnd.tiddlywiki
+
+```
+overfitting training set表现好, testing set不好
+一般由于
+模型过于复杂
+训练数据大小过小,不平衡
+噪声过多
+
+underfitting都不好
+模型不够复杂
+学习到的特征太少,无法表现特征到label的mapping
+```

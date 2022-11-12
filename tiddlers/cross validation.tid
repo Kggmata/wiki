@@ -1,0 +1,11 @@
+created: 20221028105852212
+modified: 20221028110021205
+tags: ?
+title: cross validation
+type: text/vnd.tiddlywiki
+
+```
+1. tarining dataset D随机分成k个folders
+
+2. 每次取一个folder作为validation data, 剩下的是training data
+```

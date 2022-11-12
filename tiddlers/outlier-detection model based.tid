@@ -1,0 +1,13 @@
+created: 20221107070436175
+modified: 20221107093400843
+tags: ? 7203
+title: outlier-detection model based
+type: text/vnd.tiddlywiki
+
+```
+为数据建模, 看拟合程度, 拟合度低的是outlier
+
+比如高斯分布, 算概率, 或者(x-/mu)/ /lambda
+```
+[img[Snipaste_2022-11-07_15-04-58.png]]
+[img[Snipaste_2022-11-07_15-05-56.png]]

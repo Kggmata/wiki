@@ -1,0 +1,23 @@
+created: 20221106031612989
+modified: 20221106033105885
+tags: ? 7231
+title: make file
+type: text/vnd.tiddlywiki
+
+[img[Snipaste_2022-11-06_11-30-44.png]]
+make
+
+make debug
+
+make clean
+
+```
+默认是.default_goal:=
+不指定的话是默认第一个target
+
+如果目标比prerepresent新, 不更新
+
+.phony代表不管文件系统的文件是否最新
+
+.开头的跳过, 找第一个非.开头的target
+```

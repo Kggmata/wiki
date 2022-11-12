@@ -1,0 +1,21 @@
+created: 20221031021759667
+difficulty: 4.968433471420917
+due: 20221116004802999
+grade: 1
+history: [{"due":"20221102045715067","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20221031045715067"}]
+interval: 5
+lapses: 0
+modified: 20221105004802999
+reps: 2
+retrievability: 0.7684334714209162
+review: 20221105004802998
+stability: 10.8623997997734
+tags: 7505 ?
+title: 等比数列
+type: text/vnd.tiddlywiki
+
+```
+geometric progression
+
+ a1(1-q^n)/(1-q)
+```

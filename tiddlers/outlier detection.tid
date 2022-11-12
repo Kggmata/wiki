@@ -1,0 +1,28 @@
+created: 20221028131226683
+modified: 20221107065240631
+tags: ? 7203
+title: outlier detection
+type: text/vnd.tiddlywiki
+
+```
+or anomly detection
+the identification of rare items
+
+noise vs outlier/anomalies
+
+noise may be random, perturbation or contaminating
+not necessary produce unusual values or objects
+may not be interesting
+
+outlier 
+may cause by adversaries
+unusual values
+interesting
+
+they are not related directly, outlier can and can not be noise, noise can and can not be outlier
+
+methods:
+LOF
+cluster based technique
+isolation based technique
+```

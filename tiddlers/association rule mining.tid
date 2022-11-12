@@ -1,0 +1,81 @@
+created: 20221028131946476
+difficulty: 5.822431111850943
+due: 20221110073415914
+grade: 0
+history: [{"due":"20221102141435825","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20221031141435825"}]
+interval: 9
+lapses: 1
+modified: 20221109073415914
+reps: 1
+retrievability: 0.6224311118509421
+review: 20221109073415913
+stability: 1.4816364413634358
+tags: 7203 ?
+title: association rule mining
+type: text/vnd.tiddlywiki
+
+```
+反映事物之间相关性
+
+应用场景: 购物篮分析
+```
+[img[Snipaste_2022-11-07_17-57-57.png]]
+
+```
+concept
+
+1 itemset
+row是一个item, 由一些了feature构成
+
+2 association rule
+也就是一个item到class的关系
+ {x1,x2}=>y
+
+3 support
+support count
+个数
+support rate
+占比
+
+4 frequent itemsets
+定义个minimum support threshold
+
+5 confidence
+if A, the possibility of B
+
+6 strong rules
+定义min support rate和min confidence
+满足两者
+
+7 association rule mining:
+given a set of transactions find all strong rules showing the association relation between items
+```
+```
+the apriori principle
+if an itemset is frequent, all of its subsets must also be frequent
+
+if an itemset is not frequent, then all its supersets are not frequent
+
+```
+[img[BillfishfMybAi.PNG]]
+
+```
+Method
+naive method: low efficient
+
+join 
+1.按照字典序排序, 
+2. 前n-1个相同, 然后把最后一个union
+```
+[img[Snipaste_2022-11-07_15-32-33.png]]
+[img[Snipaste_2022-11-07_15-32-46.png]]
+[img[Snipaste_2022-11-07_15-33-23.png]]
+[img[Snipaste_2022-11-07_15-34-12.png]]
+[img[Snipaste_2022-11-07_15-36-46.png]]
+[img[Snipaste_2022-11-07_15-36-55.png]]
+[img[Snipaste_2022-11-07_15-39-35.png]]
+
+```
+strong rule generation
+```
+[img[Snipaste_2022-11-09_15-33-50.png]]

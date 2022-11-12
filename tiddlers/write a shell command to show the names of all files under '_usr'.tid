@@ -1,0 +1,7 @@
+created: 20221030010157150
+modified: 20221030010422474
+tags: ? 7231
+title: write a shell command to show the names of all files under '/usr'
+type: text/vnd.tiddlywiki
+
+ls /usr

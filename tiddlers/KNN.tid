@@ -1,0 +1,39 @@
+created: 20221028125309091
+modified: 20221105142940716
+tags: ? 7203
+title: KNN
+type: text/vnd.tiddlywiki
+
+```
+k nearest neighbors
+
+hyperparameteer
+1. lazy-learner, instance based
+2. kNN
+
+lazy approach
+instance-based learning
+
+for each test sample
+1. compute the distance to all training samples
+2. identify k nearest neightbours
+3. use labels of nearest neighbors to determine the label of test example
+```
+```
+distance metric
+
+1. Manhattan distance L1
+2. Euclidean distance L2
+3. Minkowski distance 
+4. chebyshev distance L_infinity
+```
+```
+取值奇数
+
+k过小会导致对noise敏感, k过大会导致包含太多其他的centeroid的点
+
+优点是 不需要对数据分布做假设
+
+缺点 computing cost过高, 因为需要计算距离
+curse of dimensitionality
+```

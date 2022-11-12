@@ -1,0 +1,16 @@
+created: 20221106024456089
+modified: 20221107021723876
+tags: ? 7231
+title: hard link , soft link
+type: text/vnd.tiddlywiki
+
+[img[Snipaste_2022-11-06_10-45-13.png]]
+
+```
+hard link相对于名字对应inumber
+直到所有link被删除, 文件内容才被删除
+
+soft link软链接
+存的是path
+```
+[img[Snipaste_2022-11-06_10-51-27.png]]

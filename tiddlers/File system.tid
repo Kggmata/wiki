@@ -1,0 +1,52 @@
+created: 20221106010722958
+modified: 20221107021728909
+tags: ? 7231
+title: File system
+type: text/vnd.tiddlywiki
+
+```
+一个硬盘上可以有多个文件系统
+
+文件系统有许多不同的type
+
+可以使用mount查看
+```
+```
+内存和外存
+外存是persistant的
+内存是易失的volatile
+
+文件系统包括文件和文件的元数据
+```
+```
+常见磁盘格式
+fat, hdfs, mdr, gpt(guid)
+```
+[img[Snipaste_2022-11-06_09-17-48.png]]
+[img[Snipaste_2022-11-06_09-32-51.png]]
+
+```
+硬盘是block为单位, 一个block有一个super block存储元数据, superblock有个inode
+
+inode需要一个bitmap位图代表哪个inode被占用,也就是i
+
+dblock代表block的占用情况, 可以没有, 
+```
+[img[Snipaste_2022-11-06_09-44-37.png]]
+
+```
+inode数据结构
+1. pointer
+```
+[img[Snipaste_2022-11-06_10-05-58.png]]
+[img[Snipaste_2022-11-06_10-29-40.png]]
+
+```
+pointer region
+
+data region
+```
+```
+文件夹存了一系列映射关系
+```
+[img[Snipaste_2022-11-06_10-40-12.png]]

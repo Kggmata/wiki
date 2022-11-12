@@ -1,0 +1,24 @@
+created: 20221028134137156
+modified: 20221107142806005
+tags: ? 7203
+title: text mining
+type: text/vnd.tiddlywiki
+
+```
+basic idea
+1. represent each document and the query as vectors(TF-IDF) in a high-dimensional space
+2. use an appropriate similarity measure to compute the similarity between query vector and document vector
+3. rank document based on the similarity values in descending order
+```
+```
+For documents,
+1. extract text
+2. remove stop words, convert all letters to lowercase and do stemming
+3. put words from all documents together, remove duplicationa nd sort them to have a word list
+4. calculate TF vector
+5. calculate IDF value
+6. calculate TF-IDF vector
+7.normalize all TF-IDF vectors to unit length
+```
+[img[Snipaste_2022-10-29_19-06-04.png]]
+[img[Snipaste_2022-11-07_15-45-44.png]]

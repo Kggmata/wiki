@@ -1,0 +1,12 @@
+created: 20221111065107643
+modified: 20221111065150894
+tags: ? 7203
+title: What are the impact factors of the efficiency of association rule mining
+type: text/vnd.tiddlywiki
+
+```
+1. thresholds
+2. number of items
+3. number of transactions
+4. each transaction length
+```

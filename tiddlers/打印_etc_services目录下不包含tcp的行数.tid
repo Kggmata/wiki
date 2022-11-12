@@ -1,0 +1,17 @@
+created: 20221030014915417
+difficulty: 4.302141956630641
+due: 20221114121204031
+grade: 2
+history: [{"due":"20221101082547619","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20221030082547619"},{"due":"20221107113707167","interval":2,"difficulty":4.1000000000000005,"stability":6.091873624375545,"retrievability":0.9,"grade":2,"lapses":0,"reps":2,"review":"20221101113707167"},{"due":"20221110084627128","interval":8,"difficulty":5.1707833672274,"stability":1.4816364413634358,"retrievability":0.8707833672273995,"grade":0,"lapses":1,"reps":1,"review":"20221109084627127"}]
+interval: 1
+lapses: 1
+modified: 20221110121204031
+reps: 2
+retrievability: 0.9313585894032408
+review: 20221110121204030
+stability: 3.5841654914214436
+tags: 7231 ?
+title: 打印/etc/services目录下不包含tcp的行数
+type: text/vnd.tiddlywiki
+
+cat /etc/services|grep -v tcp |wc -l

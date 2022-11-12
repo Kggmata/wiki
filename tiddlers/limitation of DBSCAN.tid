@@ -1,0 +1,9 @@
+created: 20221105075731135
+modified: 20221105075755727
+tags: ? 7203
+title: limitation of DBSCAN
+type: text/vnd.tiddlywiki
+
+```
+cannot cluster data sets with large differences in densities well
+```

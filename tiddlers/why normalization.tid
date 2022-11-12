@@ -1,0 +1,11 @@
+created: 20221030110438147
+modified: 20221030110658404
+tags: ? 7203
+title: why normalization
+type: text/vnd.tiddlywiki
+
+```
+The main use of normalization is to utilize in order to remove anomalies that are caused because of the transitive dependency.
+
+balance the pirority of different features
+```

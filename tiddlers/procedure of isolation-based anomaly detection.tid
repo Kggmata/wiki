@@ -1,0 +1,15 @@
+created: 20221111003751702
+modified: 20221111004400251
+tags: ? 7203
+title: procedure of isolation-based anomaly detection
+type: text/vnd.tiddlywiki
+
+```
+1. random select a feature
+
+2. random select a value between max and min of the selected feature
+
+3. use the value to split the data
+
+4. split the left and right child of D until unique leaf
+```

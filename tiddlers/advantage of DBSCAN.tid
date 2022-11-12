@@ -1,0 +1,11 @@
+created: 20221111084436629
+modified: 20221111084520717
+tags: ? 7203
+title: advantage of DBSCAN
+type: text/vnd.tiddlywiki
+
+```
+1. no need to specify number of clusters K
+
+2. no require of data distribution to be gaussian distribution
+```

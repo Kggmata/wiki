@@ -1,0 +1,13 @@
+created: 20221111064810640
+modified: 20221111065029345
+tags: ? 7203
+title: apriori approach
+type: text/vnd.tiddlywiki
+
+```
+if an itemset is frequent, then all its subset is frequent
+
+if an itemset is not frequent, then all its superset is not frequent
+
+for k-itemset, k+1itemset is superset, k-1itemset is subset
+```

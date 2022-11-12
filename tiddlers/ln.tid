@@ -1,0 +1,7 @@
+created: 20221030020337188
+modified: 20221030020416829
+tags: ? 7231
+title: ln
+type: text/vnd.tiddlywiki
+
+ln -s /local/courses/csse2310/bin/testa1.sh ${HOME}/a1test

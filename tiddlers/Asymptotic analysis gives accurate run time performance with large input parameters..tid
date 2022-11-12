@@ -1,0 +1,17 @@
+created: 20221028104031906
+difficulty: 3.8224311118509426
+due: 20221130073420463
+grade: 2
+history: [{"due":"20221102141440907","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20221031141440907"}]
+interval: 9
+lapses: 0
+modified: 20221109073420463
+reps: 2
+retrievability: 0.6224311118509421
+review: 20221109073420463
+stability: 20.745556735549485
+tags: 7505 ?
+title: Asymptotic analysis gives accurate run time performance with large input parameters.
+type: text/vnd.tiddlywiki
+
+wrong

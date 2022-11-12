@@ -1,0 +1,19 @@
+created: 20221030020509321
+difficulty: 3.1707833672273997
+due: 20221201084417077
+grade: 2
+history: [{"due":"20221101082437814","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20221030082437813"},{"due":"20221107113401411","interval":2,"difficulty":4.1000000000000005,"stability":6.091873624375545,"retrievability":0.9,"grade":2,"lapses":0,"reps":2,"review":"20221101113401411"}]
+interval: 8
+lapses: 0
+modified: 20221109084417077
+reps: 3
+retrievability: 0.8707833672273995
+review: 20221109084417076
+stability: 21.752708583396142
+tags: 7231 ?
+title: ~ 和${HOME}
+type: text/vnd.tiddlywiki
+
+HOME是环境变量中的HOME
+
+~

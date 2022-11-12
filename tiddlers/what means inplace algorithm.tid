@@ -1,0 +1,7 @@
+created: 20221104123402323
+modified: 20221104123429336
+tags: ? 7505
+title: what means inplace algorithm
+type: text/vnd.tiddlywiki
+
+代表不需要借助额外的数据结构就可以对输入的数据进行变换

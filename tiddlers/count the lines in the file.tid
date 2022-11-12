@@ -1,0 +1,20 @@
+created: 20221030014524494
+modified: 20221030082418357
+tags: ? 7231
+title: count the lines in the file
+type: text/vnd.tiddlywiki
+
+wc
+
+```
+word count
+-c, --bytes
+              print the byte counts
+
+-m, --chars
+              print the character counts
+
+-l, --lines
+              print the newline counts
+
+```

@@ -1,0 +1,24 @@
+created: 20221107065242283
+modified: 20221107142810568
+tags: ? 7203
+title: outlier detection Density-based
+type: text/vnd.tiddlywiki
+
+[img[Snipaste_2022-11-07_14-52-30.png]]
+
+```
+density
+因为可能存在变化的density
+引入ard
+
+然后为了smooth distance matrix
+引入reachability distance
+
+然后使用rd算density
+
+```
+
+[img[Snipaste_2022-11-07_14-57-12.png]]
+[img[Snipaste_2022-11-07_14-58-27.png]]
+[img[Snipaste_2022-11-07_15-00-47.png]]
+[img[Snipaste_2022-11-07_15-04-22.png]]

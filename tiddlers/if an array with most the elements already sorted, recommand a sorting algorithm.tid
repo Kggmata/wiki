@@ -1,0 +1,9 @@
+created: 20221111124638474
+modified: 20221111124726718
+tags: ? 7505
+title: if an array with most the elements already sorted, recommand a sorting algorithm
+type: text/vnd.tiddlywiki
+
+```
+insertion sort, it will benefit from already sorted list 
+```

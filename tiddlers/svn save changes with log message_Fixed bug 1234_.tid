@@ -1,0 +1,7 @@
+created: 20221030013627786
+modified: 20221030082420991
+tags: ? 7231
+title: svn save changes with log message"Fixed bug 1234"
+type: text/vnd.tiddlywiki
+
+svn commit . -m "Fixed bug 1234"

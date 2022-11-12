@@ -1,0 +1,10 @@
+created: 20221029110846553
+modified: 20221029111538962
+tags: ? 7203
+title: web search: basic idea of pagerank
+type: text/vnd.tiddlywiki
+
+```
+1. more pages linked to it, more importance
+2. if pages lined to lit are important, then the page is important
+```

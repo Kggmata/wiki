@@ -1,0 +1,10 @@
+created: 20221028105406115
+modified: 20221028105500101
+tags: ? 7203
+title: learner
+type: text/vnd.tiddlywiki
+
+```
+an algorithm which all training set can be inputted
+learns on the training set, output a classifier, which is mapping from the features to the labels
+```

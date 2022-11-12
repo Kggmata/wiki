@@ -1,0 +1,19 @@
+created: 20221105081745688
+difficulty: 5
+due: 20221111132006682
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20221109132006682
+reps: 1
+retrievability: 1
+review: 20221109132006682
+stability: 2
+tags: 7203 ?
+title: Acc的limitation
+type: text/vnd.tiddlywiki
+
+```
+训练数据分布不均匀的情况下, 比较不能代表真实性能. 
+```

@@ -1,0 +1,12 @@
+created: 20221111004402696
+modified: 20221111004516772
+tags: ? 7203
+title: why might isolation based anomaly detection fail
+type: text/vnd.tiddlywiki
+
+```
+1. randomness: the random tree may select marginal values for partition
+
+2. solution of the failure
+Construct multiple random trees to construct the isolation forest
+```

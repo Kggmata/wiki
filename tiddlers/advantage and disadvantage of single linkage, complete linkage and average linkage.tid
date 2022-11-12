@@ -1,0 +1,13 @@
+created: 20221111062705741
+modified: 20221111064625065
+tags: ? 7203
+title: advantage and disadvantage of single linkage, complete linkage and average linkage
+type: text/vnd.tiddlywiki
+
+```
+single linkage good at handling data forming non-spherical clusters
+
+complete linkage tend to form spherical clusters
+```
+[img[Snipaste_2022-11-11_14-30-13.png]]
+[img[Snipaste_2022-11-11_14-30-20.png]]

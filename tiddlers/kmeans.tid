@@ -1,0 +1,16 @@
+created: 20221028130642112
+modified: 20221105142934192
+tags: ? 7203
+title: kmeans
+type: text/vnd.tiddlywiki
+
+```
+initialization:
+randomly pick k points as the initial centroids
+
+repeat the following 
+assign all point class according to the closest centroid
+update the centroids: the mean of all points in the cluster
+
+setting k by the elbow method
+```

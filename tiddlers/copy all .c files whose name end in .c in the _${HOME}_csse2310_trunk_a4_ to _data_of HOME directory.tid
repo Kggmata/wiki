@@ -1,0 +1,15 @@
+created: 20221030010443532
+modified: 20221030082426809
+tags: ? 7231
+title: copy all .c files whose name end in .c in the "${HOME}/csse2310/trunk/a4" to "data"of HOME directory
+type: text/vnd.tiddlywiki
+
+```
+cp ${HOME}/csse2310/trunk/a4/*.c ${HOME}/data
+
+* wildcard通配符
+
+多拷贝
+```
+
+[img[Snipaste_2022-10-30_09-17-49.png]]

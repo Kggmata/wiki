@@ -1,0 +1,21 @@
+created: 20221028125045419
+modified: 20221105142951306
+tags: ? 7203
+title: random forest
+type: text/vnd.tiddlywiki
+
+```
+construct several decision trees instead of only one
+
+ tree-construction: increase diversity
+1. sample subset of training set
+2. sample subset of features
+
+combine of the output of all the trees together
+ majority voting
+```
+```
+1. 
+
+2. 
+```

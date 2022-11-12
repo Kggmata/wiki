@@ -1,0 +1,23 @@
+created: 20221028112029794
+modified: 20221028112419577
+tags: ? 7203
+title: decision tree construction
+type: text/vnd.tiddlywiki
+
+```
+training set:D={(x1,y1),(x2,y2)...}
+feature set: A={a1,...an}
+Process; function TreeGenerate(D,A):
+1. if stop criteria reached, make current node as a leaf and mark class, return
+2. select the optimal splitting feature ai from A
+3. For all a, generate a branch and subset Dv such that a=v for all samles in Dv
+4. For all Dv
+5.TreeGenerate(D,A\{a})
+
+```
+```
+stoping criteria
+1. 当前node的所有instance属于相同的class
+2. feature set A empty
+3. D is empty
+```
