@@ -13,6 +13,7 @@ stability: 21.752708583396142
 tags: 7231 ?
 title: ~ 和${HOME}
 type: text/vnd.tiddlywiki
+wysiwyg: yes
 
 HOME是环境变量中的HOME
 
